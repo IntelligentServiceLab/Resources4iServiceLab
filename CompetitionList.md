@@ -16,7 +16,7 @@
 - [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)
 
 ### 开发类
-- 中国大学生计算机设计大赛
+- 中国大学生计算机设计大赛——(<mark>4月份</mark>)
 - 中国高校计算机大赛
    - 大数据挑战赛
    - 团体程序设计天梯赛
@@ -27,7 +27,7 @@
 - 全国大学生计算机系统能力大赛
 - [华为ICT大赛](https://e.huawei.com/cn/talent/ict-academy/#/home)
 - [全国大学生信息安全竞赛](http://www.ciscn.cn/)
-- [海峡两岸暨港澳地区大学生计算机创新作品赛](www.hncf.org)
+- [海峡两岸暨港澳地区大学生计算机创新作品赛](www.hncf.org)——(<mark>5月份</mark>)
 - [湖南省大学生计算机程序设计竞赛(应用开发类竞赛)](https://hnmachvi.csu.edu.cn/Hncr/index/)
 - [节能减排](http://www.jienengjianpai.org/)
 - [湖南省大学生物联网应用创新设计大赛(创意赛)](http://hiotf.org.cn/HNWLWXH/)
