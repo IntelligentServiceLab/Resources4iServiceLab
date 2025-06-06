@@ -20,6 +20,7 @@
 - [百度之星·程序设计大赛](https://star.baidu.com/#/)——(<mark>6-8月份，2-3场</mark>)
 - [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
 - [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)——(<mark>每季度1次</mark>)
+- [睿抗机器人开发者大赛（RAICOM）-CAIP信息技术创新-编程技能](https://www.raicom.com.cn/match-item.html?id=3407)——(<mark>5月份</mark>)
 
 ### 开发类
 - [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
@@ -29,8 +30,8 @@
    - 移动应用创新赛
    - [网络技术挑战赛](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
    - 人工智能创意赛
-- “中国软件杯”大学生软件设计大赛
-- 全国大学生计算机系统能力大赛
+- [“中国软件杯”大学生软件设计大赛](https://www.cnsoftbei.com/)——(<mark>4-7月份</mark>)
+- [全国大学生计算机系统能力大赛](https://os.educg.net/#/)——(<mark>2-6月份</mark>)
 - [华为ICT大赛](https://e.huawei.com/cn/talent/ict-academy/#/home)
 - [全国大学生信息安全竞赛](http://www.ciscn.cn/)
 - [海峡两岸暨港澳地区大学生计算机创新作品赛](www.hncf.org)——(<mark>5月份</mark>)
@@ -44,8 +45,8 @@
 
 
 ### 创新创业类
-- 中国国际 “互联网+”大学生创新创业大赛
-- “挑战杯”全国大学生课外学术科技作品竞赛
-- “挑战杯”中国大学生创业计划大赛
+- [中国国际 “互联网+”大学生创新创业大赛](https://cy.ncss.cn/)——(<mark>4-7月份</mark>)
+- [“挑战杯”全国大学生课外学术科技作品竞赛](https://www.tiaozhanbei.net/)——(<mark>两年一次（奇数年）</mark>)
+- [“挑战杯”中国大学生创业计划大赛](https://www.tiaozhanbei.net/)——(<mark>两年一次（偶数年）</mark>)
 - [ICAN大学生创新创业大赛](http://www.g-ican.com/home/index)
 - [“创青春”全国大学生创业大赛](https://fjx.5idream.net/login)
