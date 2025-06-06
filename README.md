@@ -7,5 +7,5 @@
 - [保研推免细则(2024版)](https://computer.hnust.edu.cn/tzgg/075199e1224944eab1cf21ae5a188efa.htm)
 - [保研推免细则(2023版)](https://pan.baidu.com/s/1EPGSBIVwvKFij1ZwvFfaxQ?)
 - [关于制作汇报PPT的一些建议](https://pan.baidu.com/s/1bW2xz5CSawr4XVr4jLeArw?)
-- [关于撰写学位论文的一些建议]([关于撰写学位论文的一些建议](https://pan.baidu.com/s/1EKclWnv5_WjeXcMgnvmhVg?)
+- [关于撰写学位论文的一些建议](https://pan.baidu.com/s/1EKclWnv5_WjeXcMgnvmhVg?)
 - [2025-浅谈论文撰写与科研创新指导-康国胜](https://pan.baidu.com/s/12mjqrJI6Eop_67RAGrg_Gw?)
