@@ -20,7 +20,7 @@
 - [百度之星·程序设计大赛](https://star.baidu.com/#/)——(<mark>6-8月份，2-3场</mark>)
 - [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
 - [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)——(<mark>每季度1次</mark>)
-- [睿抗机器人开发者大赛（RAICOM）-CAIP信息技术创新-编程技能](https://www.raicom.com.cn/match-item.html?id=3407)——(<mark>5月份</mark>)
+- [睿抗机器人开发者大赛(RAICOM)-CAIP信息技术创新-编程技能](https://www.raicom.com.cn/match-item.html?id=3407)——(<mark>5月份</mark>)
 
 ### 开发类
 - [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
