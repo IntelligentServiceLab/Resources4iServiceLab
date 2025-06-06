@@ -9,3 +9,4 @@
 - [关于制作汇报PPT的一些建议](https://pan.baidu.com/s/1bW2xz5CSawr4XVr4jLeArw?)
 - [关于撰写学位论文的一些建议](https://pan.baidu.com/s/1EKclWnv5_WjeXcMgnvmhVg?)
 - [2025-浅谈论文撰写与科研创新指导-康国胜](https://pan.baidu.com/s/12mjqrJI6Eop_67RAGrg_Gw?)
+- [How to Read a Paper](https://pan.baidu.com/s/14t4pV8fMbSCN2m8pWSs5nw?)
