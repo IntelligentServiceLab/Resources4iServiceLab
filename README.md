@@ -10,3 +10,4 @@
 - [关于撰写学位论文的一些建议](https://pan.baidu.com/s/1EKclWnv5_WjeXcMgnvmhVg?)
 - [浅谈论文撰写与科研创新指导](https://pan.baidu.com/s/12mjqrJI6Eop_67RAGrg_Gw?)
 - [How to Read a Paper](https://pan.baidu.com/s/14t4pV8fMbSCN2m8pWSs5nw?)
+- [从校园到职场：大四学生求职通关全攻略](https://pan.baidu.com/s/1yHQ_O8Z2XYLBlgubAtU73w?)
