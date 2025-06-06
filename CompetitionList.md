@@ -44,7 +44,7 @@
 - [全国大学生物联网设计竞赛(华为杯)](https://iot.sjtu.edu.cn/news.aspx?info_lb=36&flag=2)——(<mark>4-6月份</mark>)
 - [中国机器人及人工智能大赛](https://www.caairobot.com/)——(<mark>5月份</mark>)
 - [阿里云天池](https://tianchi.aliyun.com/university/student_competition)——(<mark>7-9月份</mark>)
-- [湖南省大学生计算机作品赛]——(<mark>3-4月份</mark>)
+- [湖南省大学生计算机作品赛](http://www.hncf.org/readnews.asp?id=247&forwhat=%BB%EE%B6%AF%D4%A4%B8%E6)——(<mark>3-4月份</mark>)
 - [全国大学生集成电路创新创业大赛](http://univ.ciciec.com/)——(<mark>1-3月份</mark>)
 
 
