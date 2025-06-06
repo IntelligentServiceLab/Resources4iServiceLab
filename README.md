@@ -13,4 +13,4 @@
 - [How to Read a Paper](https://pan.baidu.com/s/14t4pV8fMbSCN2m8pWSs5nw?)
 - [从校园到职场：大四学生求职通关全攻略](https://pan.baidu.com/s/1yHQ_O8Z2XYLBlgubAtU73w?)
 
-【注意】<mark>以上资料仅供智能服务小组成员下载和使用, 切不可外传给其他人或在网络上公开传播, 以免引起版权方面的纠纷，谢谢大家合作！！！</mark>
+【**注意**】<mark>以上资料仅供智能服务小组成员下载和使用, 切不可外传给其他人或在网络上公开传播, 以免引起版权方面的纠纷，谢谢大家合作！！！</mark>
