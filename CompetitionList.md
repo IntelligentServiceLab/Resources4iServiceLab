@@ -15,7 +15,7 @@
 
 ## 学科竞赛列表
 ### 算法类
-- ACM-ICPC国际大学生程序设计竞赛
+- ACM-ICPC国际大学生程序设计竞赛(https://icpc.pku.edu.cn/ssxx/158944.htm)——（<mark>5月份</mark>）
 - [蓝桥杯全国软件和信息技术专业人才大赛](https://dasai.lanqiao.cn/pages/v7/dasai/competition/individual_competition.html)——（<mark>10-12月份</mark>）
 - [百度之星·程序设计大赛](https://star.baidu.com/#/)——(<mark>6-8月份，2-3场</mark>)
 - [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
@@ -25,11 +25,11 @@
 ### 开发类
 - [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
 - 中国高校计算机大赛
-   - 大数据挑战赛
-   - 团体程序设计天梯赛
-   - 移动应用创新赛
+   - 大数据挑战赛(https://www.saikr.com/)(<mark>下半年-次年3月份</mark>)
+   - 团体程序设计天梯赛（https://gplt.patest.cn/notification）(<mark>4月份</mark>)
+   - 移动应用创新赛(http://www.appcontest.net/home/homepage)——（<mark>4月份-6月份</mark>）
    - [网络技术挑战赛](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
-   - 人工智能创意赛
+   - 人工智能创意赛（http://aicontest.baidu.com/）——（<mark>7月份</mark>）
 - [“中国软件杯”大学生软件设计大赛](https://www.cnsoftbei.com/)——(<mark>4-7月份</mark>)
 - [全国大学生计算机系统能力大赛](https://os.educg.net/#/)——(<mark>2-6月份</mark>)
 - [华为ICT大赛](https://e.huawei.com/cn/talent/ict-academy/#/home)
