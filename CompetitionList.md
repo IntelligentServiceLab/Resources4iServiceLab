@@ -1,6 +1,6 @@
 ## 能力认证列表
-- CCF计算机软件能力认证(CCF CSP认证)——(<mark>每季度1次</mark>)
-- 计算机技术与软件专业技术资格(水平)考试——(<mark>上半年5月+下半年11月</mark>)
+- [CCF计算机软件能力认证(CCF CSP认证)](https://csp.ccf.org.cn/)——(<mark>每季度1次</mark>)
+- [计算机技术与软件专业技术资格(水平)考试](https://bm.ruankao.org.cn/sign/welcome)——(<mark>上半年5月+下半年11月</mark>)
   - 初级：程序员
   - 中级：软件设计师、软件评测师等
   - 高级：系统分析师、系统架构设计师等
@@ -16,18 +16,18 @@
 ## 学科竞赛列表
 ### 算法类
 - ACM-ICPC国际大学生程序设计竞赛
-- 蓝桥杯全国软件和信息技术专业人才大赛
-- 百度之星·程序设计大赛
-- 全球校园人工智能算法精英大赛
-- [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)
+- [蓝桥杯全国软件和信息技术专业人才大赛](https://dasai.lanqiao.cn/pages/v7/dasai/competition/individual_competition.html)——（<mark>10-12月份</mark>）
+- [百度之星·程序设计大赛](https://star.baidu.com/#/)——(<mark>6-8月份，2-3场</mark>)
+- [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
+- [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)——(<mark>每季度1次</mark>)
 
 ### 开发类
-- 中国大学生计算机设计大赛——(<mark>4月份</mark>)
+- [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
 - 中国高校计算机大赛
    - 大数据挑战赛
    - 团体程序设计天梯赛
    - 移动应用创新赛
-   - 网络技术挑战赛
+   - [网络技术挑战赛](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
    - 人工智能创意赛
 - “中国软件杯”大学生软件设计大赛
 - 全国大学生计算机系统能力大赛
