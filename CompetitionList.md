@@ -25,8 +25,8 @@
 ### 开发类
 - [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
 - 中国高校计算机大赛
-   - [大数据挑战赛](https://www.saikr.com/)(<mark>下半年-次年3月份</mark>)
-   - [团体程序设计天梯赛](https://gplt.patest.cn/notification)(<mark>4月份</mark>)
+   - [大数据挑战赛](https://www.saikr.com/)——(<mark>下半年-次年3月份</mark>)
+   - [团体程序设计天梯赛](https://gplt.patest.cn/notification)——(<mark>4月份</mark>)
    - [移动应用创新赛](http://www.appcontest.net/home/homepage)——(<mark>4月份-6月份</mark>)
    - [网络技术挑战赛](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
    - [人工智能创意赛](http://aicontest.baidu.com/)——（<mark>7月份</mark>）
