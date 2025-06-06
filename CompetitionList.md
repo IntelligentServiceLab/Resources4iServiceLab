@@ -21,6 +21,9 @@
 - [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
 - [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)——(<mark>每季度1次</mark>)
 - [睿抗机器人开发者大赛(RAICOM)-CAIP信息技术创新-编程技能](https://www.raicom.com.cn/match-item.html?id=3407)——(<mark>5月份</mark>)
+- [湖南省大学生计算机程序设计竞赛(程序设计类)](https://hnmachvi.csu.edu.cn/Hncr/faq/regulations/)——(<mark>7月份</mark>)
+- [大学生计算机系统与程序设计竞赛(CCSP)](https://www.ccf.org.cn/ccsp/Bulletin/2024-09-14/830026.shtml)——(<mark>9-10月份</mark>)
+- [CCPC中国大学生程序设计竞赛](https://ccpc.io/)——(<mark>8月份</mark>)
 
 ### 开发类
 - [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
@@ -41,6 +44,8 @@
 - [全国大学生物联网设计竞赛(华为杯)](https://iot.sjtu.edu.cn/news.aspx?info_lb=36&flag=2)——(<mark>4-6月份</mark>)
 - [中国机器人及人工智能大赛](https://www.caairobot.com/)——(<mark>5月份</mark>)
 - [阿里云天池](https://tianchi.aliyun.com/university/student_competition)——(<mark>7-9月份</mark>)
+- [湖南省大学生计算机作品赛]——(<mark>3-4月份</mark>)
+- [全国大学生集成电路创新创业大赛](http://univ.ciciec.com/)——(<mark>1-3月份</mark>)
 
 
 
