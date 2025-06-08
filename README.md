@@ -26,7 +26,7 @@
 - [从校园到职场：大四学生求职通关全攻略](https://pan.baidu.com/s/1yHQ_O8Z2XYLBlgubAtU73w?)
 
 ## 学习资料相关
--[PyTorch深度学习快速入门教程](https://www.bilibili.com/video/BV1hE411t7RN)
+- [PyTorch深度学习快速入门教程](https://www.bilibili.com/video/BV1hE411t7RN)
 
 ## AI工具推荐
 
