@@ -20,7 +20,7 @@
 - SRIP项目
 - 计算机设计赛
 - 计算机作品赛
-- 湖南省研究生科研创新项目
+- [研究生科研创新项目](https://pan.baidu.com/s/14NwflR-MQSkRVbVlzwqwDA?)
 - 本科毕业论文
 - 硕士毕业论文
 
