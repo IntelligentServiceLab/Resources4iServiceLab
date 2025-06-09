@@ -15,7 +15,10 @@
 - [浅谈论文撰写与科研创新指导](https://pan.baidu.com/s/12mjqrJI6Eop_67RAGrg_Gw?)
 - [How to Read a Paper](https://pan.baidu.com/s/14t4pV8fMbSCN2m8pWSs5nw?)
 
-## 论文相关
+## 会议论文集
+- ICSOC
+- BPM
+- ICPM
 
 ## 参考文档
 - [大学生创业训练项目](https://pan.baidu.com/s/1tX8qEdaZA2bue4Su_dJF2g?)
