@@ -16,7 +16,7 @@
 - [How to Read a Paper](https://pan.baidu.com/s/14t4pV8fMbSCN2m8pWSs5nw?)
 
 ## 参考文档
-- 大学生创业训练项目
+- [大学生创业训练项目](https://pan.baidu.com/s/1tX8qEdaZA2bue4Su_dJF2g?)
 - SRIP项目
 - 计算机设计赛
 - 计算机作品赛
