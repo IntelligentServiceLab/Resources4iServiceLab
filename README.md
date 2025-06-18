@@ -1,6 +1,7 @@
 # Resources-iServiceLab
 ## 竞赛相关
 - [能力认证列表+申报项目列表+学科竞赛列表](CompetitionList.md)
+- [2025-湖南科技大学学生学科专业竞赛管理办法](https://pan.baidu.com/s/1msww-YMITr76QCO2Af0E9A?)
   
 ## 论文相关
 - 期刊会议等级列表(计算机类)
