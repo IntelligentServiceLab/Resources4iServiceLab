@@ -28,8 +28,8 @@
 - 计算机设计赛
 - [计算机作品赛](https://pan.baidu.com/s/1t5IpZr1piBb2mT9DDgPgGQ?)
 - [研究生科研创新项目](https://pan.baidu.com/s/14NwflR-MQSkRVbVlzwqwDA?)
-- [本科毕业论文](https://pan.baidu.com/s/1xcpyrXWIr1p6lt2ZPVOR0Q?)
-- 硕士毕业论文
+- [本科毕业论文及答辩PPT](https://pan.baidu.com/s/1xcpyrXWIr1p6lt2ZPVOR0Q?)
+- [硕博毕业论文及答辩PPT](https://pan.baidu.com/s/1JEyaJDuz2EgGhVU-hbxigg?)
 
 ## 职场相关
 - [从校园到职场：大四学生求职通关全攻略](https://pan.baidu.com/s/1yHQ_O8Z2XYLBlgubAtU73w?)
