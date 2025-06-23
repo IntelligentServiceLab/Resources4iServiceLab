@@ -15,6 +15,7 @@
 - [关于撰写学位论文的一些建议](https://pan.baidu.com/s/1EKclWnv5_WjeXcMgnvmhVg?)
 - [浅谈论文撰写与科研创新指导](https://pan.baidu.com/s/12mjqrJI6Eop_67RAGrg_Gw?)
 - [How to Read a Paper](https://pan.baidu.com/s/14t4pV8fMbSCN2m8pWSs5nw?)
+- [Word技术报告撰写——形式规范解读](https://pan.baidu.com/s/1FVHbRnfFKgo_2CW8e6bEEg?)
 
 ## 会议论文集
 - ICSOC
