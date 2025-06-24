@@ -28,7 +28,7 @@
 
 ## 参考文档
 - [大学生创业训练项目](https://pan.baidu.com/s/1tX8qEdaZA2bue4Su_dJF2g?)
-- SRIP项目
+- [SRIP项目](https://pan.baidu.com/s/1KVE24_cLftVM6MuNKJlqug?)
 - [计算机设计赛](https://pan.baidu.com/s/1X5olNzCkt4wvCS4oXe3l6g?)
 - [计算机作品赛](https://pan.baidu.com/s/1t5IpZr1piBb2mT9DDgPgGQ?)
 - [研究生科研创新项目](https://pan.baidu.com/s/14NwflR-MQSkRVbVlzwqwDA?)
