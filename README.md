@@ -25,6 +25,7 @@
 - BPM
 - ICPM
 - CAiSE
+- CAiSE Forum
 
 ## 参考文档
 - [大学生创业训练项目](https://pan.baidu.com/s/1tX8qEdaZA2bue4Su_dJF2g?)
