@@ -35,6 +35,12 @@
 - [本科毕业论文及答辩PPT](https://pan.baidu.com/s/1xcpyrXWIr1p6lt2ZPVOR0Q?)
 - [硕博毕业论文及答辩PPT](https://pan.baidu.com/s/1JEyaJDuz2EgGhVU-hbxigg?)
 
+## 数据集相关
+- [事件日志数据集](https://github.com/IntelligentServiceLab/EventLogDatasets)
+- [ProgrammableWeb数据集](https://github.com/IntelligentServiceLab/Web-Service-Crawler)
+- [Rapid数据集](https://github.com/IntelligentServiceLab/RESTful-API-Crawler)
+
+
 ## 职场相关
 - [从校园到职场：大四学生求职通关全攻略](https://pan.baidu.com/s/1yHQ_O8Z2XYLBlgubAtU73w?)
 
