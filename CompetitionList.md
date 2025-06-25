@@ -15,38 +15,40 @@
 
 ## 学科竞赛列表
 ### 算法类
-- [ACM-ICPC国际大学生程序设计竞赛](https://icpc.pku.edu.cn/ssxx/158944.htm)——（<mark>5月份</mark>）
-- [蓝桥杯全国软件和信息技术专业人才大赛](https://dasai.lanqiao.cn/pages/v7/dasai/competition/individual_competition.html)——（<mark>10-12月份</mark>）
-- [百度之星·程序设计大赛](https://star.baidu.com/#/)——(<mark>6-8月份，2-3场</mark>)
-- [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
-- [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)——(<mark>每季度1次</mark>)
-- [睿抗机器人开发者大赛(RAICOM)-CAIP信息技术创新-编程技能](https://www.raicom.com.cn/match-item.html?id=3407)——(<mark>5月份</mark>)
-- [湖南省大学生计算机程序设计竞赛(程序设计类)](https://hnmachvi.csu.edu.cn/Hncr/faq/regulations/)——(<mark>7月份</mark>)
-- [大学生计算机系统与程序设计竞赛(CCSP)](https://www.ccf.org.cn/ccsp/Bulletin/2024-09-14/830026.shtml)——(<mark>9-10月份</mark>)
-- [CCPC中国大学生程序设计竞赛](https://ccpc.io/)——(<mark>8月份</mark>)
 - [中国高校计算机大赛2022网络技术挑战赛(华中赛区)](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
+- [ACM-ICPC国际大学生程序设计竞赛](https://icpc.pku.edu.cn/ssxx/158944.htm)——（<mark>5月份</mark>）
+- [睿抗机器人开发者大赛(RAICOM)-CAIP信息技术创新-编程技能](https://www.raicom.com.cn/match-item.html?id=3407)——(<mark>5月份</mark>)
+- [全球校园人工智能算法精英大赛](https://www.saikr.com/vse/2024/DIGIX)——(<mark>5-10月份</mark>)
+- [百度之星·程序设计大赛](https://star.baidu.com/#/)——(<mark>6-8月份，2-3场</mark>)
+- [湖南省大学生计算机程序设计竞赛(程序设计类)](https://hnmachvi.csu.edu.cn/Hncr/faq/regulations/)——(<mark>7月份</mark>)
+- [CCPC中国大学生程序设计竞赛](https://ccpc.io/)——(<mark>8月份</mark>)
+- [大学生计算机系统与程序设计竞赛(CCSP)](https://www.ccf.org.cn/ccsp/Bulletin/2024-09-14/830026.shtml)——(<mark>9-10月份</mark>)
+- [蓝桥杯全国软件和信息技术专业人才大赛](https://dasai.lanqiao.cn/pages/v7/dasai/competition/individual_competition.html)——（<mark>10-12月份</mark>）
+- [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)——(<mark>每季度1次</mark>)
+
 ### 开发类
-- [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
 - 中国高校计算机大赛
-   - [大数据挑战赛](https://www.saikr.com/)——(<mark>下半年-次年3月份</mark>)
-   - [团体程序设计天梯赛](https://gplt.patest.cn/notification)——(<mark>4月份</mark>)
-   - [移动应用创新赛](http://www.appcontest.net/home/homepage)——(<mark>4-6月份</mark>)
-   - [网络技术挑战赛](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
-   - [人工智能创意赛](http://aicontest.baidu.com/)——（<mark>7月份</mark>）
-- [“中国软件杯”大学生软件设计大赛](https://www.cnsoftbei.com/)——(<mark>4-7月份</mark>)
-- [全国大学生计算机系统能力大赛](https://os.educg.net/#/)——(<mark>2-6月份</mark>)
-- [华为ICT大赛](https://e.huawei.com/cn/talent/ict-academy/#/home)——(<mark>9-11月份</mark>)
-- [全国大学生信息安全竞赛](http://www.ciscn.cn/)——(<mark>5-6月份</mark>)
-- [海峡两岸暨港澳地区大学生计算机创新作品赛](www.hncf.org)——(<mark>5月份</mark>)
-- [湖南省大学生计算机程序设计竞赛(应用开发类竞赛)](https://hnmachvi.csu.edu.cn/Hncr/index/)——(<mark>7月份</mark>)
-- [全国大学生节能减排社会实践与科技竞赛](http://www.jienengjianpai.org/)——(<mark>3-4月份</mark>)
-- [湖南省大学生物联网应用创新设计大赛(创意赛)](http://hiotf.org.cn/HNWLWXH/)——(<mark>6月份</mark>)
-- [全国大学生物联网设计竞赛(华为杯)](https://iot.sjtu.edu.cn/news.aspx?info_lb=36&flag=2)——(<mark>4-6月份</mark>)
-- [中国机器人及人工智能大赛](https://www.caairobot.com/)——(<mark>5月份</mark>)
-- [阿里云天池](https://tianchi.aliyun.com/university/student_competition)——(<mark>7-9月份</mark>)
-- [湖南省大学生计算机作品赛](http://www.hncf.org/readnews.asp?id=247&forwhat=%BB%EE%B6%AF%D4%A4%B8%E6)——(<mark>3-4月份</mark>)
+  - [网络技术挑战赛](http://net.c4best.cn/)——(<mark>2-4月份</mark>)
+  - [大数据挑战赛](https://www.saikr.com/)——(<mark>下半年-次年3月份</mark>)
+  - [团体程序设计天梯赛](https://gplt.patest.cn/notification)——(<mark>4月份</mark>)
+  - [移动应用创新赛](http://www.appcontest.net/home/homepage)——(<mark>4-6月份</mark>)
+  - [人工智能创意赛](http://aicontest.baidu.com/)——（<mark>7月份</mark>）
 - [全国大学生集成电路创新创业大赛](http://univ.ciciec.com/)——(<mark>1-3月份</mark>)
+- [全国大学生计算机系统能力大赛](https://os.educg.net/#/)——(<mark>2-6月份</mark>)
+- [湖南省大学生计算机作品赛](http://www.hncf.org/readnews.asp?id=247&forwhat=%BB%EE%B6%AF%D4%A4%B8%E6)——(<mark>3-4月份</mark>)
+- [全国大学生节能减排社会实践与科技竞赛](http://www.jienengjianpai.org/)——(<mark>3-4月份</mark>)
+- [中国大学生计算机设计大赛](https://jsjds.blcu.edu.cn/)——(<mark>4月份</mark>)
+- [全国大学生物联网设计竞赛(华为杯)](https://iot.sjtu.edu.cn/news.aspx?info_lb=36&flag=2)——(<mark>4-6月份</mark>)
+- [“中国软件杯”大学生软件设计大赛](https://www.cnsoftbei.com/)——(<mark>4-7月份</mark>)
+- [中国机器人及人工智能大赛](https://www.caairobot.com/)——(<mark>5月份</mark>)
+- [海峡两岸暨港澳地区大学生计算机创新作品赛](www.hncf.org)——(<mark>5月份</mark>)
+- [全国大学生信息安全竞赛](http://www.ciscn.cn/)——(<mark>5-6月份</mark>)
+- [湖南省大学生物联网应用创新设计大赛(创意赛)](http://hiotf.org.cn/HNWLWXH/)——(<mark>6月份</mark>)
+- [湖南省大学生计算机程序设计竞赛(应用开发类竞赛)](https://hnmachvi.csu.edu.cn/Hncr/index/)——(<mark>7月份</mark>)
+- [阿里云天池](https://tianchi.aliyun.com/university/student_competition)——(<mark>7-9月份</mark>)
 - [湖南省研究生人工智能创新大赛](http://www.hnaai.cn)——(<mark>8-10月份</mark>)
+- [华为ICT大赛](https://e.huawei.com/cn/talent/ict-academy/#/home)——(<mark>9-11月份</mark>)
+
 
 
 ### 创新创业类
