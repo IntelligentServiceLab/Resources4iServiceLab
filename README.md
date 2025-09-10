@@ -12,6 +12,7 @@
   - [CCF推荐中文科技期刊目录(2022版)](https://pan.baidu.com/s/1RwtjPLDyi3QRXtI-vGGQYg?)
 - [SCI期刊中科院分区查询](https://www.ablesci.com/journal)
 - [湖南科技大学中文期刊分类(2022版)](https://pan.baidu.com/s/1c04I0-5WMmhrHyCOAcNKKA?)
+- [保研推免细则(2025版)](https://pan.baidu.com/s/1zX1CF_sSAqbddRst8hEzVg?)
 - [保研推免细则(2024版)](https://computer.hnust.edu.cn/tzgg/075199e1224944eab1cf21ae5a188efa.htm)
 - [保研推免细则(2023版)](https://pan.baidu.com/s/1EPGSBIVwvKFij1ZwvFfaxQ?)
 - [关于制作汇报PPT的一些建议](https://pan.baidu.com/s/1bW2xz5CSawr4XVr4jLeArw?)
