@@ -48,6 +48,7 @@
 
 ## 学习资料相关
 - [PyTorch深度学习快速入门教程](https://www.bilibili.com/video/BV1hE411t7RN)
+- [BPM方向预备知识](https://pan.baidu.com/s/16Pe42xjgoh4SSjugrshNfA)
 
 ## AI工具推荐
 
