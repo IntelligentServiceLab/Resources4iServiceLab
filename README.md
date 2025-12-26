@@ -22,11 +22,11 @@
 - [Word技术报告撰写——形式规范解读](https://pan.baidu.com/s/1FVHbRnfFKgo_2CW8e6bEEg?)
 
 ## [会议论文集](https://pan.baidu.com/s/1caq0IBRv3VP9kqmDVmO--Q?)
-- ICSOC
-- BPM
-- ICPM
-- CAiSE
-- CAiSE Forum
+- ICSOC: 2023, 2024
+- BPM: 2023, 2024
+- ICPM: 
+- CAiSE: 2023, 2024
+- CAiSE Forum: 2024
 
 ## 参考文档
 - [大学生创业训练项目](https://pan.baidu.com/s/1tX8qEdaZA2bue4Su_dJF2g?)
