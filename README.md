@@ -22,7 +22,7 @@
 - [Word技术报告撰写——形式规范解读](https://pan.baidu.com/s/1FVHbRnfFKgo_2CW8e6bEEg?)
 
 ## [会议论文集](https://pan.baidu.com/s/1caq0IBRv3VP9kqmDVmO--Q?)
-- ICSOC: 2023, 2024
+- ICSOC: 2023, 2024, 2025
 - BPM: 2023, 2024
 - ICPM: 
 - CAiSE: 2023, 2024
